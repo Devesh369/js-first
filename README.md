@@ -1,2 +1,2 @@
-# js-first
+# Javascript_bigginer_projects
 JAVASCRIPT
